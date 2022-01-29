@@ -1,0 +1,42 @@
+body {
+  background-color: Beige;
+}
+
+canvas {
+  width:300px;
+  border:1px solid lightgray;
+}
+
+h1, h3{
+  color:Coral;
+  text-align: center;
+  font-family: consolas;
+}
+
+.wrapper {
+width: 800px;
+margin: 30px auto;
+text-align:center;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+
+#seconds, #tens{
+  font-size:2em;
+  color:orange;
+  text-align: center;
+  font-family: consolas;
+}
+
+
+
+
+
+
+
+
